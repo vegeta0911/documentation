@@ -4,13 +4,7 @@ var docMenu = [
 		fr_FR: "Github",
 		en_US: "Github",
 		link: "https://github.com/Vegeta0911/"
-  }, {
-		divider: true
   }, 
-  
-  {
-		divider: true
-  },
   {
 		fr_FR: "Plugins",
 		en_US: "Plugins",
