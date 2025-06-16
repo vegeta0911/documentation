@@ -35,7 +35,7 @@ var html = '';
 var lang = 'fr_FR';
 if (window.location.href.indexOf('fr_FR') != -1) {
 	lang = 'fr_FR'
-} /*else if (window.location.href.indexOf('en_US') != -1) {
+} else if (window.location.href.indexOf('en_US') != -1) {
 	lang = 'en_US'
 } else if (window.location.href.indexOf('es_ES') != -1) {
 	lang = 'es_ES'
@@ -53,7 +53,7 @@ if (window.location.href.indexOf('fr_FR') != -1) {
 	} else if (userLang.indexOf('de') !== -1) {
 		lang = 'de_DE'
 	}
-}*/
+}
 if (getCookie('lang') != lang) {
 	setCookie('lang', lang, 7)
 }
@@ -183,7 +183,7 @@ $(function () {
 
 	$('#sel_lang').on('change', function () {
 		setCookie('lang', $(this).val(), 7)
-		var url = window.location.href.replace('fr_FR', $(this).val());//.replace('en_US', $(this).val()).replace('es_ES', $(this).val()).replace('de_DE', $(this).val());
+		var url = window.location.href.replace('fr_FR', $(this).val()).replace('en_US', $(this).val()).replace('es_ES', $(this).val()).replace('de_DE', $(this).val());
 		window.location.href = url;
 	})
 
