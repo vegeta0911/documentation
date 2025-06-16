@@ -14,7 +14,6 @@ tout ça en **sauvegardant** !
 
 3 - apres avoir cliqué sur le bouton sauvegarder ne pas oublier de valider l'autorisation de connection sur votre tv LG.
 
-WebOStvLG_screensqhot0.PNG
 <img src="../../images/WebOStvLG_screensqhot0.png" width="300" style="display: block;margin: 0 auto;"/>
 
 il y a aussi statue Pour savoir si la TV est allumé ou pas  ![enter image description here](https://raw.githubusercontent.com/vegeta0911/WebOStvLG/refs/heads/beta/docs/images/state.png)
