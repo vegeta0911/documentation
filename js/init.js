@@ -3,63 +3,11 @@ var docMenu = [
 		icon: "fab fa-github ",
 		fr_FR: "Github",
 		en_US: "Github",
-		link: "https://github.com/Phpvarious/"
+		link: "https://github.com/Vegeta0911/"
   }, {
 		divider: true
-  }, {
-		fr_FR: "Widgets Action",
-		en_US: "Action Widgets",
-		submenu: [
-			{
-				link: "/documentation/widget/#LANG#/action/default",
-				icon: "fas fa-power-off ",
-				fr_FR: "Défaut (2)",
-				en_US: "Default (2)"
-			},
-			{
-				link: "/documentation/widget/#LANG#/action/cursor",
-				icon: "fas fa-sliders-h",
-				fr_FR: "Curseur (3)",
-				en_US: "Cursor (3)"
-			},
-			{
-				link: "/documentation/widget/#LANG#/action/list",
-				icon: "fas fa-list",
-				fr_FR: "Liste (0)",
-				en_US: "List (0)"
-			},
-			{
-				link: "/documentation/widget/#LANG#/action/message",
-				icon: "fab fa-facebook-messenger",
-				fr_FR: "Message (0)",
-				en_US: "Message (0)"
-			}
-		]
-  },
-  {
-		fr_FR: "Widgets Info",
-		en_US: "Info Widgets",
-		submenu: [
-			{
-				link: "/documentation/widget/#LANG#/info/binary",
-				icon: "fab fa-creative-commons-zero",
-				fr_FR: "Binaire (1)",
-				en_US: "Binary (1)"
-			},
-			{
-				link: "/documentation/widget/#LANG#/info/numeric",
-				icon: "fab fa-creative-commons-zero",
-				fr_FR: "Numérique (3)",
-				en_US: "Numeric (3)"
-			},
-			{
-				link: "/documentation/widget/#LANG#/info/string",
-				icon: "fas fa-text-height",
-				fr_FR: "Autre (1)",
-				en_US: "Other (1)"
-			}
-		]
-  },
+  }, 
+  
   {
 		divider: true
   },
@@ -79,17 +27,7 @@ var docMenu = [
 		divider: true
   },
   {
-	fr_FR: "Widgets / Scénarios (5)",
-	en_US: "Widgets / Scénarios (5)",
-	link: "/documentation/widget/#LANG#/widget_scenario"
-  },
-  {
 	divider: true
-  },
-  {
-	fr_FR: "personnalisation CSS 4.4",
-	en_US: "Custom CSS 4.4",
-	link: "/documentation/widget/#LANG#/customcss4_4"
   },
   {
 	divider: true
