@@ -1,0 +1,39 @@
+---
+languages: [fr_FR, en_US, es_ES, de_DE]
+baseurl: "/"
+url: "https://vegeta0911.github.io" # the base hostname & protocol for your site
+sass:
+  sass_dir: css
+  style: compressed
+markdown: kramdown
+permalink: /404.html
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+gems:
+  - jekyll-paginate
+  - jekyll-seo-tag
+exclude:
+  - vendor
+plugins:
+  - jekyll-seo-tag
+title: "Documentations des plugins de Vegeta0911"
+description: "Ceci est la documentation des plugins créés par Vegeta0911 de la solution domotique Jeedom."
+author: "Vegeta0911"
+image: https://doc.jeedom.com/images/logo.png
+community: https://community.jeedom.com
+market: https://market.jeedom.com
+blog: https://blog.jeedom.com
+doc: https://doc.jeedom.com
+help: "help"
+archive: "widget_archive"
+widget: "widget"
+doc_widget: "widget/documentation"
+model_widget: "model_widget"
+img: "images"
+url_git: "https://github.com/vegeta0911"
+paypal:
+  name: "paypal.me/Phpvarious72"
+  url2: "https://www.paypal.com/donate/?hosted_button_id=X97RV78YRSAZY"
+  url: "https://www.paypal.com/donate/?hosted_button_id=X97RV78YRSAZY"
