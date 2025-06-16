@@ -8,9 +8,9 @@ var docMenu = [
 	divider: true
   },
   {
-	        icon: "fab fa-file-archive",
+	        icon: "fab fa-book",
 		fr_FR: "Plugins",
-	        link: "https://vegeta0911.github.io/documentation/plugins/"
+	        link: "https://vegeta0911.github.io/documentation/plugins/fr_FR/"
   },
   {
 	divider: true
