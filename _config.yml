@@ -26,14 +26,9 @@ community: https://community.jeedom.com
 market: https://market.jeedom.com
 blog: https://blog.jeedom.com
 doc: https://doc.jeedom.com
-help: "help"
-archive: "widget_archive"
-widget: "widget"
-doc_widget: "widget/documentation"
-model_widget: "model_widget"
 img: "images"
 url_git: "https://github.com/vegeta0911"
 paypal:
-  name: "paypal.me/Phpvarious72"
-  url2: "https://www.paypal.com/donate/?hosted_button_id=X97RV78YRSAZY"
-  url: "https://www.paypal.com/donate/?hosted_button_id=X97RV78YRSAZY"
+  name: "paypal.me/Vegeta0911"
+  url2: "https://www.paypal.com/donate/?hosted_button_id=4SZ67QSJ35H2E"
+  url: "https://www.paypal.com/donate/?hosted_button_id=4SZ67QSJ35H2E"
