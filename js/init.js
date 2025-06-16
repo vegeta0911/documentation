@@ -1,19 +1,15 @@
 var docMenu = [
-	{
+  {
 		icon: "fab fa-github ",
 		fr_FR: "Github",
 		link: "https://github.com/Vegeta0911/"
   }, 
   {
+	divider: true
+  },
+  {
 		fr_FR: "Plugins",
-		submenu: [
-			{
-				link: "/documentation/plugins/#LANG#",
-				icon: "fas fa-text-height",
-				fr_FR: "WebOStvLG",
-				fr_FR: "Jardin & Portager"
-			}
-		]
+	        icon: "fas fa-text-height"
   },
   {
 	divider: true
