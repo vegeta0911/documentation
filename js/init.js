@@ -2,26 +2,18 @@ var docMenu = [
 	{
 		icon: "fab fa-github ",
 		fr_FR: "Github",
-		en_US: "Github",
 		link: "https://github.com/Vegeta0911/"
   }, 
   {
 		fr_FR: "Plugins",
-		en_US: "Plugins",
 		submenu: [
 			{
 				link: "/documentation/plugins/#LANG#",
 				icon: "fas fa-text-height",
 				fr_FR: "WebOStvLG",
-				en_US: "WebOStvLG"
+				fr_FR: "Jardin & Portager"
 			}
 		]
-  },
-  {
-		divider: true
-  },
-  {
-	divider: true
   },
   {
 	divider: true
@@ -146,7 +138,7 @@ function genText(_menu, _lang) {
 }
 
 $(function () {
-	document.title = 'Phpvarious Widgets'
+	document.title = 'Vegeta0911 Plugins'
 	$('.sidenav').sidenav();
 	setTimeout(function () {
 		if ($('#slide-out').length > 0 && window.matchMedia("only screen and (max-width: 760px)").matches) {
