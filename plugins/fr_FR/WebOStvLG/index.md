@@ -16,6 +16,6 @@ tout ça en **sauvegardant** !
 
 <img src="../../images/WebOStvLG_screensqhot0.png" width="300" style="display: block;margin: 0 auto;"/>
 
-il y a aussi statue Pour savoir si la TV est allumé ou pas             ![enter image description here](<img src="../../images/state.png" width="50" style="display: block;margin: 0 auto;"/>)
+il y a aussi statue Pour savoir si la TV est allumé ou pas             ![enter image description here]("../../images/state.png")
 
 **Si y a des soucis avec webos v6 ou supérieur merci de me contacter.**
