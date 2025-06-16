@@ -10,7 +10,7 @@ var docMenu = [
   {
 	        icon: "fab fa-file-archive",
 		fr_FR: "Plugins",
-	        link: "https://vegeta0911.github.io/documentation/fr_FR/"
+	        link: "https://vegeta0911.github.io/documentation/plugins/"
   },
   {
 	divider: true
