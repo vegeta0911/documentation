@@ -1,7 +1,5 @@
 # Plugin WebOStvLG
 
-# Documentation du Plugin LG WebOS
-
 Ce plugin permet de contrôler les TV(s) LG.
 
 # Configuration du plugin
