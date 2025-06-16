@@ -18,7 +18,7 @@ var docMenu = [
 			{
 				link: "/documentation/plugins/#LANG#",
 				icon: "fas fa-text-height",
-				fr_FR: "Energie",
+				fr_FR: "WebOStvLG",
 				en_US: "Energy"
 			}
 		]
