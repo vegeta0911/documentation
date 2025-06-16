@@ -3,7 +3,7 @@ var docMenu = [
 	divider: false
   },
   {
-		icon: "fa fa-2x fa-github",
+		icon: "fab fab-2x fa-github",
 		fr_FR: "Github",
 		link: "https://github.com/Vegeta0911/"
   }, 
