@@ -3,7 +3,7 @@ var docMenu = [
 	divider: false
   },
   {
-		icon: "fab fa-2x fa-github",
+		icon: "fa fa-2x fa-github",
 		fr_FR: "Github",
 		link: "https://github.com/Vegeta0911/"
   }, 
@@ -11,7 +11,7 @@ var docMenu = [
 	divider: true
   },
   {
-	        icon: "fab fa-book",
+	        icon: "fa fa-2x fa-book",
 		fr_FR: "Plugins",
 	        link: "https://vegeta0911.github.io/documentation/plugins/fr_FR/"
   },
