@@ -1,6 +1,6 @@
 var docMenu = [
   {
-	divider: true
+	divider: false
   },
   {
 		icon: "fab fa-github",
