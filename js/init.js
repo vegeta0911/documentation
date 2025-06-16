@@ -16,7 +16,6 @@ var docMenu = [
   },
   {
 	fr_FR: "Faire un don ❤️",
-	en_US: "Make a donation ❤️",
 	link: "https://www.paypal.com/donate/?hosted_button_id=4SZ67QSJ35H2E",
 	target: "_blank",
 	icon: "fa-2x fab fa-paypal"
@@ -37,7 +36,7 @@ var html = '';
 var lang = 'fr_FR';
 if (window.location.href.indexOf('fr_FR') != -1) {
 	lang = 'fr_FR'
-} else if (window.location.href.indexOf('en_US') != -1) {
+} /*else if (window.location.href.indexOf('en_US') != -1) {
 	lang = 'en_US'
 } else if (window.location.href.indexOf('es_ES') != -1) {
 	lang = 'es_ES'
@@ -55,7 +54,7 @@ if (window.location.href.indexOf('fr_FR') != -1) {
 	} else if (userLang.indexOf('de') !== -1) {
 		lang = 'de_DE'
 	}
-}
+}*/
 if (getCookie('lang') != lang) {
 	setCookie('lang', lang, 7)
 }
