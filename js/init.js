@@ -1,6 +1,9 @@
 var docMenu = [
   {
-		icon: "fab fa-github ",
+	divider: true
+  },
+  {
+		icon: "fa-2x fa-github ",
 		fr_FR: "Github",
 		link: "https://github.com/Vegeta0911/"
   }, 
@@ -8,7 +11,7 @@ var docMenu = [
 	divider: true
   },
   {
-	        icon: "fa fa-book",
+	        icon: "fa-2x fa-book",
 		fr_FR: "Plugins",
 	        link: "https://vegeta0911.github.io/documentation/plugins/fr_FR/"
   },
