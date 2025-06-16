@@ -13,6 +13,7 @@ tout ça en **sauvegardant** !
 2 - sinon si la premiere étape ne fonctionne pas :(, alors remplir la section adresse ip puis sauvegarder.
 
 3 - apres avoir cliqué sur le bouton sauvegarder ne pas oublier de valider l'autorisation de connection sur votre tv LG.
+
 ![enter image description here](../../images/WebOStvLG_screensqhot0.png)
 
 il y a aussi le statue Pour savoir si la TV est allumé ou pas ![enter image description here](../../images/state.png)
