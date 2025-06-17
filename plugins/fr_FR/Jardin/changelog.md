@@ -12,7 +12,7 @@ Remarque : en cas de mise à jour non listée ici, c’est que celle-ci ne compo
 ===
 - amélioration de l'affichage du tableau planning
   
-19/092024
+19/09/2024
 ===
  - correction de bug pour le passage en debian 12
  
