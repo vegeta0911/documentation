@@ -132,19 +132,19 @@ Si l'espèce en question est détecté par le programme, cela sera précisé et 
 
 **Afficher un quadrillage sur votre potager**
 Effectuez un clic-droit sur le potager (pas sur un élément) pour faire afficher le menu du potager
-![enter image description here](https://github.com/vegeta0911/jardin/raw/beta/docs/img/menu_potager.jpg?raw=true)
+![enter image description here](../../images/Jardin/menu_potager.jpg?raw=true)
 Sélectionnez '**Afficher le quadrillage'** 
-![enter image description here](https://github.com/vegeta0911/jardin/raw/beta/docs/img/quadrillage.jpg?raw=true)
+![enter image description here](../../images/Jardin/quadrillage.jpg?raw=true)
 
 
 
 **Générer un schéma du potager imprimable**
 Le bouton **imprimer** vous génèrera un plan !
 
-![enter image description here](https://github.com/vegeta0911/jardin/raw/beta/docs/img/potager.jpg)
+![enter image description here](../../images/Jardin/potager.jpg)
 
 ***example de schéma généré du plan***
-![enter image description here](https://github.com/vegeta0911/jardin/raw/beta/docs/img/potager2.jpg)
+![enter image description here](../../images/Jardin/potager2.jpg)
 
 Changelog
 ===
