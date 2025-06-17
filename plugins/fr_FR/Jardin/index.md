@@ -146,6 +146,4 @@ Le bouton **imprimer** vous génèrera un plan !
 ***example de schéma généré du plan***
 ![enter image description here](../../images/Jardin/potager2.jpg)
 
-Changelog
-===
-[Voir la page dédiée](changelog.md)
+
