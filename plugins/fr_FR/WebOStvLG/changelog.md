@@ -11,13 +11,13 @@ mise à jours 22/06/2025
 
 mise à jours 24/04/2025
 ==== 
- ajout de l'option --ssl sur toute les commandes.
+ - ajout de l'option --ssl sur toute les commandes.
 
 mise à jours 28/05/2025
 ==== 
-Ajoute de l'etat de la TV, plus une case cocher si vous avez l'option de la TV "TOUJOURS PRÊT".
-Correction de bug fix.
+- Ajoute de l'etat de la TV, plus une case cocher si vous avez l'option de la TV "TOUJOURS PRÊT".
+- Correction de bug fix.
 
 mise à jours 30/05/2025
 ==== 
-Le bouton Allumé passe par le wakeolan.
+- Le bouton Allumé passe par le wakeolan.
