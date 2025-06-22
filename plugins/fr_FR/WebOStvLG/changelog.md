@@ -6,7 +6,8 @@ Remarque : en cas de mise à jour non listée ici, c’est que celle-ci ne compo
 
 mise à jours 22/06/2025
 ====
-correction d'un bug sur le statut de la TV, merci à Claude69 pour son aide.
+Correction d'un bug sur le statut de la TV, merci à Claude69 pour son aide.
+Ajout des images sur les nouvelles chaines TNT.
 
 mise à jours 24/04/2025
 ==== 
