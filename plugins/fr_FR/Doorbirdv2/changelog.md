@@ -4,6 +4,10 @@ Vous trouverez ci-dessous les notes, les ajouts et les correctifs de chaque vers
 
 Remarque : en cas de mise à jour non listée ici, c’est que celle-ci ne comporte que des changements mineurs du type documentation ou corrections de bugs mineurs.
 
+mise à jour le 06/07/2025
+===
+- création de bouton selection sur image_appel et image _mouvement et zoom.
+  
 mise à jour le 09/04/2025
 ===
 - Rajouter des boutons d’action à chaque relais détecté.
