@@ -7,6 +7,7 @@ Remarque : en cas de mise à jour non listée ici, c’est que celle-ci ne compo
 mise à jour le 08/07/2025
 ===
 - Détection s'il y a un nom de domaine ou une IP locale.
+- Correction de bug sur le nommage des commandes.
 
 mise à jour le 07/07/2025
 ===
