@@ -4,6 +4,10 @@ Vous trouverez ci-dessous les notes, les ajouts et les correctifs de chaque vers
 
 Remarque : en cas de mise à jour non listée ici, c’est que celle-ci ne comporte que des changements mineurs du type documentation ou corrections de bugs mineurs.
 
+mise à jours 09/07/2025
+====
+- Ajout d'un filtrage de commande par onglet dans le panneau de configuration.
+
 mise à jours 22/06/2025
 ====
 - Correction d'un bug sur le statut de la TV, merci à Claude69 pour son aide.
