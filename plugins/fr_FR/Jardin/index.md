@@ -6,7 +6,7 @@ Activer le plugin
 ===
 Comme n’importe quel plugin JEEDOM, il est nécessaire d’activer le plugin pour qu’il fonctionne
 
-  
+ ![enter image description here](../../images/Jardin/Activation.PNG)
   
 
 Configuration du plugin
