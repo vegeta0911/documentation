@@ -17,6 +17,7 @@ Si vous désirez profitez des fonctionnalités de notification, pensez à rensei
 - Télégram
 - Mail
 - SMS
+  
 Et pensez à **sauvegarder** !
 ![enter image description here](../../images/Jardin/parametres.jpg)
 
