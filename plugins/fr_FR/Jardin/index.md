@@ -25,6 +25,8 @@ Vous pouvez aussi activer si vous le désirez un accès rapide à vos potager (v
 
 ![enter image description here](../../images/Jardin/pannel.jpg)
 
+![enter image description here](../../images/Jardin/panell.PNG)
+
 Ajouter des semences / potagers
 ===
 Cliquez sur le ![enter image description here](../../images/Jardin/plus.jpg) pour ajouter de nouvelles semences et/ou potager
