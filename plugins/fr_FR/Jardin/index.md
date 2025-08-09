@@ -18,7 +18,7 @@ Si vous désirez profitez des fonctionnalités de notification, pensez à rensei
 - Mail
 - SMS
 Et pensez à **sauvegarder** !
- ![enter image description here](../../images/Jardin/parametres.jpg)
+![enter image description here](../../images/Jardin/parametres.jpg)
 
 Vous pouvez aussi activer si vous le désirez un accès rapide à vos potager (via le menu Accueil de Jeedom) , en activant le panneau desktop
 
