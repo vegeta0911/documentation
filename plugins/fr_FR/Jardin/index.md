@@ -20,6 +20,10 @@ Si vous désirez profitez des fonctionnalités de notification, pensez à rensei
 Et pensez à **sauvegarder** !
  ![enter image description here](../../images/Jardin/parametres.jpg)
 
+Vous pouvez aussi activer si vous le désirez un accès rapide à vos potager (via le menu Accueil de Jeedom) , en activant le panneau desktop
+
+![enter image description here](../../images/Jardin/pannel.jpg)
+
 Ajouter des semences / potagers
 ===
 Cliquez sur le ![enter image description here](../../images/Jardin/plus.jpg) pour ajouter de nouvelles semences et/ou potager
