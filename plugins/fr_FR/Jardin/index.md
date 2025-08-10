@@ -95,27 +95,41 @@ Planning des semences
 
 ![enter image description here](../../images/Jardin/planning.PNG)
 
-La vue planning permet de visualiser rapidement vos semences, lorsqu’il faut les semer, les mettre en terre etc. Un certain nombre d’icone sont affichées à côté de vos semences pour facilement identifier : son type (légume/plante/etc) , la quantité semé / si vous avez épuisé vos semences / …
+vos semis. Lorsqu’il faut les semer, les mettre en terre etc. Un certain nombre d’icone sont affichées à côté de vos semences pour facilement identifier : son type (légume/plante/etc) , la quantité semé / si vous avez épuisé vos semences / … Un moteur de recherche vous est proposé de même ainsi que certains filtres Et aussi l'année à consulter (par défaut l'année en cours)
+
+![enter image description here](../../images/Jardin/an.JPG)
+
+Un trait vertical ROUGE vous marque la date du jour et vos semences sont listées
 
 ![enter image description here](../../images/Jardin/planning.jpg)
-  
-  
-***Actions rapides***
-Il est possible d’effectuer un clic droit sur une semence pour rapidement la déclarer comme :
-- semée
-- mise en terre
-- récoltée
-*et ainsi afficher une pastille de couleur à la date associer*
 
-*NB : en maintenant la touche CTRL lorsque vous sélectionné une option du menu clic-droit (ex :marqué comme semé) , vous serez en mesure de définir manuellement la date , et non d’avoir la date du jour imposée.*
+Il vous est possible de cliquer sur une semence pour consulter le détail de ses semis
+
+![enter image description here](../../images/Jardin/semis_planning.jpg)
+
+Il est possible d'afficher tous les semis de toutes les semences via ce bouton ![enter image description here](../../images/Jardin/all_semis.jpg)
+
+***Actions rapides sur le planning (clic - droit)***
+Il est possible d’effectuer un clic droit sur une semence pour  :
+- Ouvrir dans un nouvel onglet la fiche d'édition de la semence
+- Créer un nouveau semis
+- 
+Il est possible d’effectuer un clic droit sur un semis pour  :
+- déclarer comme 'semée' / 'récoltée' / ....
+
+*NB : en maintenant la touche CTRL lorsque vous sélectionné une option du menu clic-droit (ex :marqué comme semé) , vous serez en mesure de ***définir manuellement la date*** , et non d’avoir la date du jour imposée.*
+
 ![enter image description here](../../images/Jardin/menu_rapide.jpg)
   
-  *NB : Si vous désirez annuler une mise en terre/un semis/... il suffit de repasser par ce menu, il vous proposera d'annuler*
+*NB : Si vous désirez annuler une mise en terre/un semis/... il suffit de repasser par ce menu, il vous proposera d'annuler*
   
-
 Un bouton **imprimer** permet de générer une page à imprimer optimiser pour économiser de l’encre et avoir une vue synthétique de vos semences.
 
+Il est désormais possible sur le planning de sélectionner plusieurs semis via le bouton de sélection multiple ici
+
+![enter image description here](../../images/Jardin/planning_multi.jpg)
   
+pour ensuite appliquer une même déclaration (marquer comme semé/récolté/...)
 
 Le plan du potager
 ===
