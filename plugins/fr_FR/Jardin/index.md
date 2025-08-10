@@ -214,4 +214,8 @@ Le bouton **imprimer** vous génèrera un schéma de votre potager !
 ***example de schéma généré du plan***
 ![enter image description here](../../images/Jardin/potager2.jpg)
 
+Gérez vos arrosages
+===
+
+![enter image description here](../../images/Jardin/semiss.PNG)
 
