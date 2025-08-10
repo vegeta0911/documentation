@@ -66,7 +66,13 @@ Afin de pouvoir créer plusieurs tomates (d'espèce différentes) , une astuce a
 
 Le plugin ignorera tout ce qui trouve à partir du '@' !
 
+Déclarer un semis
+===
 
+Comme expliqué précédemment, pour une même semence, on peut déclarer plusieurs semis. Prenons le cas de la semence 'Radis de 18 jours', le jardinier va certainement semis en plusieurs fois. On peut donc créer un premier semis (disons premier semis le 1 mai) , puis un second 1 mois plus tard , etc ,etc
+
+pour ce faire, il faut se rendre sur la fiche de la semence -> Onglet Gestion -> rechercher sa semence et la sélectionner
+![enter image description here](../../images/Jardin/semiss.PNG)
 Planning des semences
 ===
 ![enter image description here](../../images/Jardin/planning.PNG)
