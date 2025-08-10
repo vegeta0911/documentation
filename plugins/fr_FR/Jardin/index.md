@@ -74,6 +74,10 @@ Comme expliqué précédemment, pour une même semence, on peut déclarer plusie
 pour ce faire, il faut se rendre sur la fiche de la semence -> Onglet Gestion -> rechercher sa semence et la sélectionner
 ![enter image description here](../../images/Jardin/semiss.PNG)
 
+Puis une fois sur la fiche de notre semence, cliquer sur l'onglet 'semis /Cultures'
+
+![enter image description here](../../images/Jardin/semis.JPG)
+
 Planning des semences
 ===
 ![enter image description here](../../images/Jardin/planning.PNG)
