@@ -123,6 +123,20 @@ Le plan du potager
 Rendez vous sur la vue 'Potager' via la barre commune du plugin
 ![enter image description here](../../images/Jardin/Potager.JPG)
 
+Juste côté de la barre commune du plugin se trouve un menu déroulant (discret) qui vous permet de basculer sur l'ensemble de vos potagers créés (et activés) dans la vue gestion
+![enter image description here](../../images/Jardin/liste.JPG)
+
+Commencez par choisir la bonne dimension de vos potager, pour ce faire , en bas à droite de chaque potager , cliquez et maintenez le clic sur le petit carré pour le redimensionner.
+
+Puis ajoutez et positionnez vos semences, vous pouvez ajouter des carrer potager, des arbres, des clotures, des ruisseaux....
+
+Le fond 'image' du potager 2 options proposés : fond terre ou fond herbe, pour changer, clic droit sur le potager et 'Choisir un fond Terre/Herbe'
+![enter image description here](../../images/Jardin/menu_potager.jpg)
+
+Verrouillage/Déverrouillage du potager Afin de ne pas déplacer par mégarde vos clotures/serres et autres éléments de décoration, une fonction de verrouillage est proposée
+![enter image description here](../../images/Jardin/lock_potager.jpg)
+
+
 ![enter image description here](../../images/Jardin/gerer_b.jpg)
 Dessinez vos potagers !
 
