@@ -219,3 +219,18 @@ Gérez vos arrosages
 
 ![enter image description here](../../images/Jardin/semiss.PNG)
 
+Nouveauté ! Le plugin Jardin & Potager permet désormais d'automatiser vos arrosages ! Pour ce faire, rendez-vous dans l'onglet GESTION. Sélectionnez un équipement (peu importe, un potager, ou une semence), puis sélectionnez l'onglet 'Arrosage'
+
+![enter image description here](../../images/Jardin/arrosage.jpg)
+
+Vous pouvez ensuite créer autant de système d'arrosage automatique que désirez en cliquant sur le bouton 'Nouvel arrosage'
+
+Un formulaire de gestion d'arrosage sera ainsi rajouté . Vous pouvez le nommer, et le paramétrer.
+
+![enter image description here](../../images/Jardin/n_arrosage.jpg)
+
+Il est très souple. Vous pouvez sélectionner plusieurs mode de déclenchement (CRON et/ou déclencheur) Vous pouvez aussi préciser des conditions d'annulation de démarrage de l'arrosage (ex : lancer l'arrosage à 8H00 du matin sauf s'il pleut !) Il faudra préciser ensuite la condition de fin d'arrosage , un timer ou une condition (ex : 20min ou capteur d'humidité saturé) Et évidement il faudra préciser les actions à opérer pour lancer et arrêter l'arrosage !
+
+**BIEN PENSEZ A ENREGISTRER**
+
+Des commandes JEEDOM associées à votre arrosage seront créées associées à l'équipement sur lequel l'arrosage a été créé.
