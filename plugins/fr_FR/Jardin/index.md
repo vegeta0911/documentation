@@ -121,9 +121,11 @@ Le plan du potager
 ===
 
 Rendez vous sur la vue 'Potager' via la barre commune du plugin
+
 ![enter image description here](../../images/Jardin/Potager.JPG)
 
 Juste côté de la barre commune du plugin se trouve un menu déroulant (discret) qui vous permet de basculer sur l'ensemble de vos potagers créés (et activés) dans la vue gestion
+
 ![enter image description here](../../images/Jardin/liste.JPG)
 
 Commencez par choisir la bonne dimension de vos potager, pour ce faire , en bas à droite de chaque potager , cliquez et maintenez le clic sur le petit carré pour le redimensionner.
@@ -131,38 +133,39 @@ Commencez par choisir la bonne dimension de vos potager, pour ce faire , en bas 
 Puis ajoutez et positionnez vos semences, vous pouvez ajouter des carrer potager, des arbres, des clotures, des ruisseaux....
 
 Le fond 'image' du potager 2 options proposés : fond terre ou fond herbe, pour changer, clic droit sur le potager et 'Choisir un fond Terre/Herbe'
+
 ![enter image description here](../../images/Jardin/menu_potager.jpg)
 
 Verrouillage/Déverrouillage du potager Afin de ne pas déplacer par mégarde vos clotures/serres et autres éléments de décoration, une fonction de verrouillage est proposée
+
 ![enter image description here](../../images/Jardin/lock_potager.jpg)
 
-
-![enter image description here](../../images/Jardin/gerer_b.jpg)
-Dessinez vos potagers !
-
-Commencez par choisir la bonne dimension de vos potager, pour ce faire , en bas à droite de chaque potager , cliquez et maintenez le clic sur le petit carré pour le redimensionner.
-
-
-Puis ajoutez et positionnez vos semences, vous pouvez ajouter des carrer potager, des arbres, des clotures, des ruisseaux....
-
 **Déplacer un élément**
-Rien de plus facile, cliquez dessus et déplacez le !
+Rien de plus facile, cliquez dessus et déplacez le ! NB : si le potager est 'verrouillé', seul les semences sont modifiables/déplaçables, pour être en mesure d'éditer des éléments de décorations, il faut s'assurer que le potager est bien 'déverrouillé'
 
 **Déplacer TOUS les éléments (en même temps)**
-Cliquez en MAINTENANT la touche CTR sur un élément quelconque déplacez le ! Tous se déplacera en même temps !
+Cliquez en MAINTENANT la touche ALT sur un élément quelconque déplacez le ! L'ensemble des éléments du potager se déplacera en même temps ! Cette fonction peut s'avérer utile lorsque vous redimensionnez le potager et que vous avez besoin de repositionner vos éléments tous ensemble !
 
 **Redimensionner un élément**
 Pour redimensionner vos éléments , utilisez le petit carré bleu en bas a droite 
+
 ![enter image description here](../../images/Jardin/coin_redim.jpg)
 
 **Effectuer une rotation à un élément**
 Amenez le curseur légèrement en dessous du carré violet, le curseur va se transformer en 'croix' , et un pop up vous invitera a cliquer ( et maintenir le clic) pour effectuer une rotation de l'élément !
+
 ![enter image description here](../../images/Jardin/coin_redim2.jpg)
   
-  **supprimer un élément**
-  Effectuez un clic-droit pour faire apparaitre un menu qui vous proposera de supprimer l'élément désiré (semence/arbre/etc...)
- ![enter image description here](../../images/Jardin/menu_semence.jpg)
+**supprimer un élément**
+Effectuez un clic-droit pour faire apparaitre un menu qui vous proposera de supprimer l'élément désiré (semence/arbre/etc...)
+  
+![enter image description here](../../images/Jardin/menu_semence.jpg)
 
+**sélection multiple - Alignement - Espacement**
+Il peut être pratique de pouvoir sélectionner plusieurs éléments afin de les déplacer conjointement , ou de les aligners (horizontalement, verticalement, espacer régulièrement horizontalement...). 
+Pour ce faire, plusieurs possibilité : 
+-  Cliquez sur un premier élément, puis tout en maintenant la touche MAJ , sélectionnez d'autres éléments
+- Cliquez sur le plan (pas sur une semence), maintenez le clic, et déplacez la souris, un rectangle de sélection vous permettra de sélectionner des semences.*Astuce : Si vous appuyez sur la touche MAJ lors de la sélection via Clic-&-Drag, vous ne désélectionnerez pas vos précédentes sélection !
 
 **Permaculture - Associer les espèces entres-elles !**
 lorsque vous allez déplacer une semence dans votre potager afin de la positionner, si cette dernière est détectée automatiquement et qu'une association est possible, un halo rouge ou vert vous invitera a la rapprocher d'une autre semence ou à l'éloigner ...
@@ -190,7 +193,7 @@ Sélectionnez '**Afficher le quadrillage'**
 
 
 **Générer un schéma du potager imprimable**
-Le bouton **imprimer** vous génèrera un plan !
+Le bouton **imprimer** vous génèrera un schéma de votre potager !
 
 ![enter image description here](../../images/Jardin/potager.jpg)
 
