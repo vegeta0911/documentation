@@ -78,6 +78,18 @@ Puis une fois sur la fiche de notre semence, cliquer sur l'onglet 'semis /Cultur
 
 ![enter image description here](../../images/Jardin/semis.JPG)
 
+Vous avez un bouton pour déclarer de nouveau semis
+
+![enter image description here](../../images/Jardin/n_semis.jpg)
+
+Renseignez les informations du semis en temps voulu
+
+![enter image description here](../../images/Jardin/i_semis.jpg)
+
+Et pensez à SAUVEGARDER
+
+Il existe d'autre façon de créer des semis ou de déclarer un semis comme 'semé/récolté' , c'est via la vue 'planning' , n'hésitez pas à vous référer à cette section de la documentation
+
 Planning des semences
 ===
 ![enter image description here](../../images/Jardin/planning.PNG)
