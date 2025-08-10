@@ -73,6 +73,7 @@ Comme expliqué précédemment, pour une même semence, on peut déclarer plusie
 
 pour ce faire, il faut se rendre sur la fiche de la semence -> Onglet Gestion -> rechercher sa semence et la sélectionner
 ![enter image description here](../../images/Jardin/semiss.PNG)
+
 Planning des semences
 ===
 ![enter image description here](../../images/Jardin/planning.PNG)
