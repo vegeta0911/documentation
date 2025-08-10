@@ -92,6 +92,7 @@ Il existe d'autre façon de créer des semis ou de déclarer un semis comme 'sem
 
 Planning des semences
 ===
+
 ![enter image description here](../../images/Jardin/planning.PNG)
 
 La vue planning permet de visualiser rapidement vos semences, lorsqu’il faut les semer, les mettre en terre etc. Un certain nombre d’icone sont affichées à côté de vos semences pour facilement identifier : son type (légume/plante/etc) , la quantité semé / si vous avez épuisé vos semences / …
