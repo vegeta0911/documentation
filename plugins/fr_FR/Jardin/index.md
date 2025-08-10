@@ -119,6 +119,9 @@ Un bouton **imprimer** permet de générer une page à imprimer optimiser pour �
 
 Le plan du potager
 ===
+
+Rendez vous sur la vue 'Potager' via la barre commune du plugin
+![enter image description here](../../images/Jardin/Potager.jpg)
 ![enter image description here](../../images/Jardin/gerer_b.jpg)
 Dessinez vos potagers !
 
