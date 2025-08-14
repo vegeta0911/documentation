@@ -4,6 +4,12 @@ Vous trouverez ci-dessous les notes, les ajouts et les correctifs de chaque vers
 
 Remarque : en cas de mise à jour non listée ici, c’est que celle-ci ne comporte que des changements mineurs du type documentation ou corrections de bugs mineurs.
 
+14/08/2025
+===
+- création d'une commande info pour la date de la prochaine execution.
+- dans la section arrosage on affiche maintenant la date de la prochaine execution.
+- big fix
+  
 15/05/2025
 ===
 - amélioration de l'affichage du tableau gestion
