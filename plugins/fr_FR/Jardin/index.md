@@ -231,6 +231,8 @@ Un formulaire de gestion d'arrosage sera ainsi rajouté . Vous pouvez le nommer,
 
 Il est très souple. Vous pouvez sélectionner plusieurs mode de déclenchement (CRON et/ou déclencheur) Vous pouvez aussi préciser des conditions d'annulation de démarrage de l'arrosage (ex : lancer l'arrosage à 8H00 du matin sauf s'il pleut !) Il faudra préciser ensuite la condition de fin d'arrosage , un timer ou une condition (ex : 20min ou capteur d'humidité saturé) Et évidement il faudra préciser les actions à opérer pour lancer et arrêter l'arrosage !
 
+Pour information, à chaque sauvegarde, il exécute la condition de fin d'arrosage.
+
 **BIEN PENSEZ A ENREGISTRER**
 
 Des commandes JEEDOM associées à votre arrosage seront créées associées à l'équipement sur lequel l'arrosage a été créé.
