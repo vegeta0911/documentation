@@ -4,6 +4,13 @@ Vous trouverez ci-dessous les notes, les ajouts et les correctifs de chaque vers
 
 Remarque : en cas de mise à jour non listée ici, c’est que celle-ci ne comporte que des changements mineurs du type documentation ou corrections de bugs mineurs.
 
+mise à jours 05/09/2025
+====
+- ajout d'un bouton notification alert
+- ajout d'un bouton lien web
+- creation d'un modal pour les boutons web, notification, notification alert
+- ajout d'un slider volume
+
 mise à jours 15/07/2025
 ====
 - Correction d'un bug de commande vide lors de la sauvegarde des commandes, bug découvert et solutionné par @Didier3L.
