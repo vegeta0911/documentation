@@ -4,6 +4,12 @@ Vous trouverez ci-dessous les notes, les ajouts et les correctifs de chaque vers
 
 Remarque : en cas de mise à jour non listée ici, c’est que celle-ci ne comporte que des changements mineurs du type documentation ou corrections de bugs mineurs.
 
+06/09/2025
+===
+- maintenant il y aura que un seul formulaire d'arrosage, pour permettre d'avoir le widget arrosage.
+- ajout dans le formulaire d'arrosage, la date et heure prochain arrosage.
+- ajout de l'option notification pour l'arrosage.
+
 17/08/2025
 ===
 - amélioration de la suppression des commandes d'arrosage
