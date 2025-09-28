@@ -4,6 +4,10 @@ Vous trouverez ci-dessous les notes, les ajouts et les correctifs de chaque vers
 
 Remarque : en cas de mise à jour non listée ici, c’est que celle-ci ne comporte que des changements mineurs du type documentation ou corrections de bugs mineurs.
 
+mise à jours 28/09/2025
+====
+- correction d'un bug sur docker et proxmox
+  
 mise à jours 05/09/2025
 ====
 - ajout d'un bouton notification alert
