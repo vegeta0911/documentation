@@ -6,6 +6,11 @@ Remarque : en cas de mise à jour non listée ici, c’est que celle-ci ne compo
 
 mise à jours 28/09/2025
 ====
+- Refonte des boutons de tout le widget, merci de sélectionner les groupes puis sauvegarder, et sélectionner les groupes puis sauvegarder.
+- Ajout d'une télécommande, il y a encore quelque bouton à mettre.
+
+mise à jours 28/09/2025
+====
 - correction d'un bug sur docker et proxmox
   
 mise à jours 05/09/2025
