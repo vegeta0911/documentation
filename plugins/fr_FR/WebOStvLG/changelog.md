@@ -4,7 +4,7 @@ Vous trouverez ci-dessous les notes, les ajouts et les correctifs de chaque vers
 
 Remarque : en cas de mise à jour non listée ici, c’est que celle-ci ne comporte que des changements mineurs du type documentation ou corrections de bugs mineurs.
 
-mise à jours 28/09/2025
+mise à jours 26/10/2025
 ====
 - Refonte des boutons de tout le widget, merci de sélectionner les groupes puis sauvegarder, et sélectionner les groupes puis sauvegarder.
 - Ajout d'une télécommande, il y a encore quelque bouton à mettre.
