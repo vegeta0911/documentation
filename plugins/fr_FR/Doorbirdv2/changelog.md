@@ -4,6 +4,10 @@ Vous trouverez ci-dessous les notes, les ajouts et les correctifs de chaque vers
 
 Remarque : en cas de mise à jour non listée ici, c’est que celle-ci ne comporte que des changements mineurs du type documentation ou corrections de bugs mineurs.
 
+mise à jour le 20/12/2025
+===
+- Bub fix.
+  
 mise à jour le 08/07/2025
 ===
 - Détection s'il y a un nom de domaine ou une IP locale.
