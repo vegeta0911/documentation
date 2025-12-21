@@ -6,7 +6,7 @@ Remarque : en cas de mise à jour non listée ici, c’est que celle-ci ne compo
 
 mise à jour le 20/12/2025
 ===
-- Bub fix.
+- Bug fix.
   
 mise à jour le 08/07/2025
 ===
