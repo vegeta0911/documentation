@@ -14,4 +14,4 @@ tout ça en **sauvegardant** !
 
 ![enter image description here](../../images/WebOStvLG/WebOStvLG_screensqhot0.png)
 
-il y a aussi le statue Pour savoir si la TV est allumé ou pas ![enter image description here](../../images/WebOStvLG/state.png
+il y a aussi le statue Pour savoir si la TV est allumé ou pas ![enter image description here](../../images/WebOStvLG/state.png)
