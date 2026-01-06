@@ -9,11 +9,11 @@ Il permet de :
 
 - Créer des équipements ESPHome
 
-Générer automatiquement la configuration ESPHome (YAML)
+- Générer automatiquement la configuration ESPHome (YAML)
 
-Valider la configuration
+- Valider la configuration
 
-Installer ou mettre à jour le firmware (USB ou OTA)
+- Installer ou mettre à jour le firmware (USB ou OTA)
 
-Administrer les ESP à distance
+- Administrer les ESP à distance
 
