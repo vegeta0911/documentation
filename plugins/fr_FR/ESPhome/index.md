@@ -117,11 +117,43 @@ Puis cliquer sur sauvegarder pour que les paramètres soit pris en compte.
 
 - Le plugin analyse la configuration
 ### Résultat attendu
-✅ Succès : **INFO Configuration is valid!**
-❌ Erreur : **ERROR Error while reading configuration**
+- ✅ Succès : **INFO Configuration is valid!**
+- ❌ Erreur : **ERROR Error while reading configuration**
 
 >[!important]
 >Tant que la validation échoue, l’installation YAML USB est bloquée.
 
+## Installation YAML USB
+### Première installation (USB)
+
+- Branchez l’ESP en USB
+
+- Sélectionnez le port série
+
+- Cliquez sur Installation YAML USB
+
+- Suivez la progression
+
+## Mise à jour OTA (sans fil)
+Si l’ESP est déjà installé :
+
+- Le plugin détecte automatiquement le mode OTA
+
+- Aucune action USB requise
+
+- Le configuration yaml est envoyé par Wi-Fi
+- ✅ Succès : **INFO OTA successful**
+
+## API sécurisée ESPHome
+
+Le plugin utilise l’API native ESPHome chiffrée.
+
+### Clé d’encryption
+
+- Générée automatiquement
+
+- Unique par équipement
+
+- Protège la communication Jeedom ↔ ESP
 
 
