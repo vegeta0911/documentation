@@ -28,6 +28,9 @@
   - ESP8266
 
   - Connexion réseau fonctionnelle (Wi-Fi)
+    
+> [!WARNING]
+> Pour les autres cartes que ESPhome peut gérer, je n'ai pas pu les tester. Merci de m'informer si vous avez d'autres cartes que ESPhome (Officiel) peut gérer.
 
 ### Logiciel
 
@@ -37,11 +40,14 @@
 
   - ESPHome installé automatiquement par le plugin
 
+### Renseignement du compte et mot de passe wifi
+Il faut renseigner le compte et le mot de passe dans le panneau de configuration du plugin ESPhome.
+
 ### Création d’un équipement ESPHome
 Aller dans Plugin->Protocole domotique->ESPhome puis cliquer sur **Ajouter**.
 Renseiger:
-- ** Nom du ESPhome **
-- ** Obget parent **
-- Catégorie **
-- Activer l'equipement **
+- **Nom du ESPhome**
+- **Obget parent**
+- **Catégorie**
+- **Activer l'equipement**
 
