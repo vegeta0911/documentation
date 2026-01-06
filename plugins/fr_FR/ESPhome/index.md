@@ -28,8 +28,8 @@
   - ESP8266
 
   - Connexion réseau fonctionnelle (Wi-Fi)
-    
-> [!WARNING]
+
+> [!IMPORTANT]
 > Pour les autres cartes que ESPhome peut gérer, je n'ai pas pu les tester. Merci de m'informer si vous avez d'autres cartes que ESPhome (Officiel) peut gérer.
 
 ### Logiciel
