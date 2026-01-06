@@ -44,7 +44,7 @@
 Il faut renseigner le compte et le mot de passe dans le panneau de configuration du plugin ESPhome.
 ![enter image description here](../../images/ESPhome/wifi.PNG)
 
-### Création d’un équipement ESPHome
+## Création d’un équipement ESPHome
 Aller dans Plugin->Protocole domotique->ESPhome puis cliquer sur **Ajouter**.
 Renseiger:
 - **Nom du ESPhome**
@@ -52,3 +52,12 @@ Renseiger:
 - **Catégorie**
 - **Activer l'equipement**
 
+## Configuration de la carte
+
+### Platforme
+Sélectionnez la plateforme correspondant à votre matériel :
+
+|Plateforme	   |Exemple
+-------------- | --------------      |
+ESP32	ESP32 Dev Module
+ESP8266	NodeMCU
