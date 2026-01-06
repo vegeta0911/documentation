@@ -61,3 +61,14 @@ Sélectionnez la plateforme correspondant à votre matériel :
 |-------------- | --------------      |
 |    ESP32	    |   ESP32 Dev Module  |
 |   ESP8266	    |      NodeMCU        |
+
+### Carte (Board)
+Après avoir choisi la plateforme, la liste des cartes disponibles apparaît automatiquement.
+
+Exemples :
+
+- esp32dev
+
+- nodemcuv2
+
+- d1_mini
