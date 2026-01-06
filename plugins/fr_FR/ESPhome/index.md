@@ -72,3 +72,22 @@ Exemples :
 - nodemcuv2
 
 - d1_mini
+
+### Port série (USB)
+- Branchez votre ESP au Jeedom
+
+- Sélectionnez le port (/dev/ttyUSB0, /dev/ttyACM0, etc
+
+> [!WARNING]
+> Obligatoire uniquement pour une première installation USB.
+
+### Génération du fichier YAML
+Le fichier ESPHome est généré automatiquement lors de la sauvegarde de l’équipement.
+
+### Règles importantes sur le nom
+
+- ❌ Pas d’accent
+
+- ❌ Pas de caractères spéciaux
+
+  
