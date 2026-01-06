@@ -36,4 +36,7 @@
   - Plugin ESPHome installé et actif
 
   - ESPHome installé automatiquement par le plugin
+
+### Création d’un équipement ESPHome
+Aller dans Plugin->Protocole domotique->ESPhome
   
