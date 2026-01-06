@@ -90,4 +90,12 @@ Le fichier ESPHome est généré automatiquement lors de la sauvegarde de l’é
 
 - ❌ Pas de caractères spéciaux
 
-  
+## Onglet YAML
+### Visualisation
+Dans l’onglet YAML, vous pouvez :
+
+- Voir la configuration générée
+
+- Modifier manuellement le YAML si nécessaire
+- 
+![enter image description here](../../images/ESPhome/config_yaml.PNG)
