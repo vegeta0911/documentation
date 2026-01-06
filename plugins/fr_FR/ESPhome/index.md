@@ -42,6 +42,7 @@
 
 ### Renseignement du compte et mot de passe wifi
 Il faut renseigner le compte et le mot de passe dans le panneau de configuration du plugin ESPhome.
+
 ![enter image description here](../../images/ESPhome/wifi.PNG)
 
 ## Création d’un équipement ESPHome
