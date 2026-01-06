@@ -7,7 +7,7 @@ Le plugin ESPHome permet de gérer facilement des appareils ESP32 / ESP8266 depu
 
 Il permet de :
 
-Créer des équipements ESPHome
+. Créer des équipements ESPHome
 
 Générer automatiquement la configuration ESPHome (YAML)
 
