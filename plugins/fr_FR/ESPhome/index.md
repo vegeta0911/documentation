@@ -97,5 +97,9 @@ Dans l’onglet YAML, vous pouvez :
 - Voir la configuration générée
 
 - Modifier manuellement le YAML si nécessaire
-- 
+  
 ![enter image description here](../../images/ESPhome/config_yaml.PNG)
+
+Vous pouver modifier ou rajouter que entre **# === USER CODE BEGIN ===** et **# === USER CODE END ===**.
+> [!WARNING]
+> Il ne faut sur tous pas supprimer **# === USER CODE BEGIN ===** et **# === USER CODE END ===** au moment de la sauvegarde.
