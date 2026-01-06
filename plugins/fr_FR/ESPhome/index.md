@@ -57,7 +57,7 @@ Renseiger:
 ### Platforme
 Sélectionnez la plateforme correspondant à votre matériel :
 
-|Plateforme	   |Exemple
--------------- | --------------      |
-ESP32	ESP32 Dev Module
-ESP8266	NodeMCU
+|  Plateforme	  |    Exemple          |
+|-------------- | --------------      |
+|    ESP32	    |   ESP32 Dev Module  |
+|   ESP8266	    |      NodeMCU        |
