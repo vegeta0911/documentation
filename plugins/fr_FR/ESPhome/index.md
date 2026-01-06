@@ -109,3 +109,19 @@ Puis cliquer sur sauvegarder pour que les paramètres soit pris en compte.
 
 > [!WARNING]
 > Il ne faut sur tous pas supprimer **# === USER CODE BEGIN ===** et **# === USER CODE END ===** au moment de la sauvegarde.
+
+## Validation de la configuration
+### Vérifier le YAML
+
+- Cliquez sur Validation YAML
+
+- Le plugin analyse la configuration
+### Résultat attendu
+✅ Succès : **INFO Configuration is valid!**
+❌ Erreur : **ERROR Error while reading configuration**
+
+>[!important]
+>Tant que la validation échoue, l’installation YAML USB est bloquée.
+
+
+
