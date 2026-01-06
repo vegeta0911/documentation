@@ -101,5 +101,7 @@ Dans l’onglet YAML, vous pouvez :
 ![enter image description here](../../images/ESPhome/config_yaml.PNG)
 
 Vous pouver modifier ou rajouter que entre **# === USER CODE BEGIN ===** et **# === USER CODE END ===**.
+Puis cliquer sur sauvegarder pour que les paramètres soit pris en compte.
+
 > [!WARNING]
 > Il ne faut sur tous pas supprimer **# === USER CODE BEGIN ===** et **# === USER CODE END ===** au moment de la sauvegarde.
