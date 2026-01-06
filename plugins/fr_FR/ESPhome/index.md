@@ -1,9 +1,9 @@
 # 📘 Documentation du Plugin ESPhome
 
 
-1. Présentation
+Présentation
 ===
-Le plugin ESPHome permet de gérer facilement des appareils ESP32 / ESP8266 depuis Jeedom, sans passer par la ligne de commande.
+1. Le plugin ESPHome permet de gérer facilement des appareils ESP32 / ESP8266 depuis Jeedom, sans passer par la ligne de commande.
 
 Il permet de :
 
@@ -17,6 +17,23 @@ Il permet de :
 
 - Administrer les ESP à distance
 
-2. Prérequis
-   ===
-2.1 Matériel
+Prérequis
+===
+2. Matériel
+
+Un ESP compatible :
+
+- ESP32
+
+- ESP8266
+
+- Connexion réseau fonctionnelle (Wi-Fi)
+
+2.1 Logiciel
+
+- Jeedom ≥ 4.4
+
+- Plugin ESPHome installé et actif
+
+- ESPHome installé automatiquement par le plugin
+  
