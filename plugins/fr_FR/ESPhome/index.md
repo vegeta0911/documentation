@@ -38,5 +38,4 @@
   - ESPHome installé automatiquement par le plugin
 
 ### Création d’un équipement ESPHome
-Aller dans Plugin->Protocole domotique->ESPhome
-  
+Aller dans Plugin->Protocole domotique->ESPhome puis cliquer sur **Ajouter**
