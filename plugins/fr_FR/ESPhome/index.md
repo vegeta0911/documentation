@@ -100,6 +100,7 @@ Dans l’onglet YAML, vous pouvez :
 
 > [!NOTE]
 > **Exemple**.
+> 
 > ![enter image description here](../../images/ESPhome/config_yaml.PNG)
 
 
