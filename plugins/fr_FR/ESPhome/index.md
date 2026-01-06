@@ -98,7 +98,10 @@ Dans l’onglet YAML, vous pouvez :
 
 - Modifier manuellement le YAML si nécessaire
 
- **EXEMPLE**![enter image description here](../../images/ESPhome/config_yaml.PNG)
+> [!NOTE]
+> **Exemple**.
+> ![enter image description here](../../images/ESPhome/config_yaml.PNG)
+
 
 Vous pouver modifier ou rajouter que entre **# === USER CODE BEGIN ===** et **# === USER CODE END ===**.
 Puis cliquer sur sauvegarder pour que les paramètres soit pris en compte.
