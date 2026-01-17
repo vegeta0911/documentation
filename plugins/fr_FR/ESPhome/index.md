@@ -52,27 +52,7 @@ Renseiger:
 - **Obget parent**
 - **Catégorie**
 - **Activer l'equipement**
-
-## Configuration de la carte
-
-### Platforme
-Sélectionnez la plateforme correspondant à votre matériel :
-
-|  Plateforme	  |    Exemple          |
-|-------------- | --------------      |
-|    ESP32	    |   ESP32 Dev Module  |
-|   ESP8266	    |      NodeMCU        |
-
-### Carte (Board)
-Après avoir choisi la plateforme, la liste des cartes disponibles apparaît automatiquement.
-
-Exemples :
-
-- esp32dev
-
-- nodemcuv2
-
-- d1_mini
+- **Renseigner IP du device (Optionnel)
 
 ### Port série (USB)
 - Branchez votre ESP au Jeedom
@@ -105,11 +85,11 @@ Dans l’onglet YAML, vous pouvez :
 > ![enter image description here](../../images/ESPhome/config_yaml.PNG)
 
 
-Vous pouver modifier ou rajouter que entre **# === USER CODE BEGIN ===** et **# === USER CODE END ===**.
+Vous pouver modifier ou rajouter que entre **# === Votre Configuration ===** et **# === Votre Configuration FIN ===**.
 Puis cliquer sur sauvegarder pour que les paramètres soit pris en compte.
 
 > [!WARNING]
-> Il ne faut sur tous pas supprimer **# === USER CODE BEGIN ===** et **# === USER CODE END ===** au moment de la sauvegarde.
+> Il ne faut sur tous pas supprimer **# === Votre Configuration ===** et **# === Votre Configuration FIN ===** au moment de la sauvegarde.
 
 ## Validation de la configuration
 ### Vérifier le YAML
