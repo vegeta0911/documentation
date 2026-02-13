@@ -85,15 +85,15 @@ Dans l’onglet YAML, vous pouvez :
 > ![enter image description here](../../images/ESPhome/config_yaml.PNG)
 >
 > **Autre exemple Climate**.
-<pre>
-  # === JEEDOM AUTO BEGIN ===
-substitutions:
-  name: climcuisine
-  friendly_name: climcuisine
-
-  nom_wifi: !secret wifi_ssid
-  pass: !secret wifi_password
-
+><pre>
+>  # === JEEDOM AUTO BEGIN ===
+>substitutions:
+>  name: climcuisine
+>  friendly_name: climcuisine
+>
+>  nom_wifi: !secret wifi_ssid
+>  pass: !secret wifi_password
+>
   wifi_ap_ssid: "AC-wifi"
   wifi_ap_password: "slwf01pro"
 
