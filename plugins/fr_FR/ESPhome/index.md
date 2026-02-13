@@ -60,6 +60,7 @@ Renseiger:
 - Sélectionnez le port (/dev/ttyUSB0, /dev/ttyACM0, etc
 
 > [!WARNING]
+> 
 > Obligatoire uniquement pour une première installation USB.
 
 ### Génération du fichier YAML
@@ -80,6 +81,7 @@ Dans l’onglet YAML, vous pouvez :
 - Modifier manuellement le YAML si nécessaire
 
 > [!NOTE]
+> 
 > **Exemple**.
 > 
 > ![enter image description here](../../images/ESPhome/config_yaml.PNG)
