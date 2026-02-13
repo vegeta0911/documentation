@@ -29,7 +29,8 @@
 
   - Connexion réseau fonctionnelle (Wi-Fi)
 
-> [!IMPORTANT]
+> <strong><span style="color:red"><img class="emoji responsive-img" title=":warning:" alt=":warning:" src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png" height="20" width="20" loading="lazy"> IMPORTANT</span></strong>
+> 
 > Pour les autres cartes que ESPhome peut gérer, je n'ai pas pu les tester. Merci de m'informer si vous avez d'autres cartes que ESPhome (Officiel) peut gérer.
 
 ### Logiciel
