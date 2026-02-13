@@ -60,7 +60,7 @@ Renseiger:
 
 - Sélectionnez le port (/dev/ttyUSB0, /dev/ttyACM0, etc
 
-> [!WARNING]
+> <strong><span style="color:red"><img class="emoji responsive-img" title=":warning:" alt=":warning:" src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png" height="20" width="20" loading="lazy"> ATTENTION</span></strong>
 > 
 > Obligatoire uniquement pour une première installation USB.
 
@@ -81,7 +81,7 @@ Dans l’onglet YAML, vous pouvez :
 
 - Modifier manuellement le YAML si nécessaire
 
-> [!NOTE]
+> <strong><span style="color:blue"><img class="emoji responsive-img" title=":note:" alt=":warning:" src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png" height="20" width="20" loading="lazy"> NOTE</span></strong>
 > 
 > **Exemple**.
 > 
