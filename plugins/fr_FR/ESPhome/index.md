@@ -236,7 +236,7 @@ Dans l’onglet YAML, vous pouvez :
 Vous pouver modifier ou rajouter que entre **# === Votre Configuration ===** et **# === Votre Configuration FIN ===**.
 Puis cliquer sur sauvegarder pour que les paramètres soit pris en compte.
 
-> [!WARNING]
+> [WARNING]
 > Il ne faut sur tous pas supprimer **# === Votre Configuration ===** et **# === Votre Configuration FIN ===** au moment de la sauvegarde.
 
 ## Validation de la configuration
