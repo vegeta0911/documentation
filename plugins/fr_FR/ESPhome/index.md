@@ -250,7 +250,8 @@ Puis cliquer sur sauvegarder pour que les paramètres soit pris en compte.
 - ✅ Succès : **INFO Configuration is valid!**
 - ❌ Erreur : **ERROR Error while reading configuration**
 
-> [!important]
+> <strong><span style="color:red"><img class="emoji responsive-img" title=":warning:" alt=":warning:" src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png?v8" height="20" width="20" loading="lazy"> IMPORTANT</span></strong>
+<
 >Tant que la validation échoue, l’installation YAML USB est bloquée.
 
 ## Installation YAML USB
