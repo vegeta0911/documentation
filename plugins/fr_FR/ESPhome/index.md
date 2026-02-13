@@ -91,8 +91,8 @@ Dans l’onglet YAML, vous pouvez :
 ><pre>
 >  # === JEEDOM AUTO BEGIN ===
 >substitutions:
->  name: climcuisine
->  friendly_name: climcuisine
+>  name: (le nom de l'équipement)
+>  friendly_name: (le nom de l'équipement)
 >
 >  nom_wifi: !secret wifi_ssid
 >  pass: !secret wifi_password
@@ -102,8 +102,8 @@ Dans l’onglet YAML, vous pouvez :
 >
 >  niv: INFO
 >
->  cle: !secret api_climcuisine
->  pass_ota: !secret ota_climcuisine
+>  cle: !secret api_(le nom de l'équipement)
+>  pass_ota: !secret ota_(le nom de l'équipement)
 >
 >  visual_min_temperature: "17 °C"
 >  visual_max_temperature: "30 °C"
