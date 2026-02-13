@@ -86,7 +86,147 @@ Dans l’onglet YAML, vous pouvez :
 >
 > **Autre exemple Climate**.
 <pre>
-  gggggg
+  # === JEEDOM AUTO BEGIN ===
+substitutions:
+  name: climcuisine
+  friendly_name: climcuisine
+
+  nom_wifi: !secret wifi_ssid
+  pass: !secret wifi_password
+
+  wifi_ap_ssid: "AC-wifi"
+  wifi_ap_password: "slwf01pro"
+
+  niv: INFO
+
+  cle: !secret api_climcuisine
+  pass_ota: !secret ota_climcuisine
+
+  visual_min_temperature: "17 °C"
+  visual_max_temperature: "30 °C"
+  visual_temperature_step: "1.0 °C"
+# === JEEDOM AUTO END ===
+
+
+# === Votre Configuration ===
+
+esphome:
+  name: "${name}"
+  friendly_name: "${friendly_name}"
+
+esp8266:
+  board: esp12e
+
+wifi:
+  ssid: !secret wifi_ssid
+  password: !secret wifi_password
+  ap:
+    ssid: "${wifi_ap_ssid}"
+    password: "${wifi_ap_password}"
+
+captive_portal:
+
+logger:
+  baud_rate: 0
+
+api:
+  encryption:
+    key: ${cle}
+  reboot_timeout: 0s
+
+ota:
+  - platform: esphome
+    password: ${pass_ota}
+
+uart:
+  tx_pin: 12
+  rx_pin: 14
+  baud_rate: 9600
+
+button:
+  - platform: factory_reset
+    name: "Réinitialisation d'usine"
+
+  - platform: template
+    name: "Basculement de l'affichage de ${friendly_name}"
+    icon: mdi:theme-light-dark
+    on_press:
+      - midea_ac.display_toggle:
+          id: midea_climate
+
+climate:
+  - platform: midea
+    id: midea_climate
+    name: "${friendly_name}"
+    autoconf: true
+    period: 2s
+    timeout: 2s
+    num_attempts: 2
+    beeper: true
+
+    visual:
+      min_temperature: "${visual_min_temperature}"
+      max_temperature: "${visual_max_temperature}"
+      temperature_step: "${visual_temperature_step}"
+
+    supported_modes:
+      - FAN_ONLY
+      - HEAT_COOL
+      - COOL
+      - HEAT
+      - DRY
+
+    custom_fan_modes:
+      - SILENT
+      - TURBO
+
+    supported_presets:
+      - ECO
+      - BOOST
+      - SLEEP
+
+    custom_presets:
+      - FREEZE_PROTECTION
+
+    supported_swing_modes:
+      - VERTICAL
+      - HORIZONTAL
+      - BOTH
+
+switch:
+  - platform: template
+    name: "Bip ${friendly_name}"
+    icon: mdi:volume-source
+    restore_mode: RESTORE_DEFAULT_OFF
+    optimistic: true
+    turn_on_action:
+      - midea_ac.beeper_on
+    turn_off_action:
+      - midea_ac.beeper_off
+
+remote_transmitter:
+  pin: GPIO13
+  carrier_duty_percent: 100%
+
+sensor:
+  - platform: wifi_signal
+    name: "Signal Wi-Fi de ${friendly_name}"
+    update_interval: 60s
+
+  - platform: uptime
+    id: uptime_sec
+    internal: true
+
+script:
+  - id: power_toggle
+    then:
+      - midea_ac.power_toggle
+
+web_server:
+  port: 80
+  local: true
+
+# === Votre Configuration FIN ===
 </pre>
 
 
