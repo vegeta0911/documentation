@@ -83,6 +83,11 @@ Dans l’onglet YAML, vous pouvez :
 > **Exemple**.
 > 
 > ![enter image description here](../../images/ESPhome/config_yaml.PNG)
+>
+> **Autre exemple Climate**.
+<pre>
+  gggggg
+</pre>
 
 
 Vous pouver modifier ou rajouter que entre **# === Votre Configuration ===** et **# === Votre Configuration FIN ===**.
