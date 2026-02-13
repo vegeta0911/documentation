@@ -236,7 +236,8 @@ Dans l’onglet YAML, vous pouvez :
 Vous pouver modifier ou rajouter que entre **# === Votre Configuration ===** et **# === Votre Configuration FIN ===**.
 Puis cliquer sur sauvegarder pour que les paramètres soit pris en compte.
 
-> [WARNING]
+> <strong><span style="color:red"><img class="emoji responsive-img" title=":warning:" alt=":warning:" src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png" height="20" width="20" loading="lazy"> ATTENTION</span></strong>
+>
 > Il ne faut sur tous pas supprimer **# === Votre Configuration ===** et **# === Votre Configuration FIN ===** au moment de la sauvegarde.
 
 ## Validation de la configuration
@@ -249,7 +250,7 @@ Puis cliquer sur sauvegarder pour que les paramètres soit pris en compte.
 - ✅ Succès : **INFO Configuration is valid!**
 - ❌ Erreur : **ERROR Error while reading configuration**
 
->[!important]
+> [!important]
 >Tant que la validation échoue, l’installation YAML USB est bloquée.
 
 ## Installation YAML USB
