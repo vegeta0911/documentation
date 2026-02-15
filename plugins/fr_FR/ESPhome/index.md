@@ -53,7 +53,7 @@ Renseiger:
 - **Obget parent**
 - **Catégorie**
 - **Activer l'equipement**
-- **Renseigner IP du device (Optionnel)
+- **Renseigner IP FIXE du device (Optionnel)
 
 ### Port série (USB)
 - Branchez votre ESP au Jeedom
