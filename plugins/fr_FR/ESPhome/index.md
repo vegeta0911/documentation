@@ -287,4 +287,4 @@ Le plugin utilise l’API native ESPHome chiffrée.
 
 - Protège la communication Jeedom ↔ ESP
 
-
+A l'heure acutelle il y a que les commandes infos et commande action qui sont gere par le plugin
