@@ -6,6 +6,10 @@ Remarque : en cas de mise à jour non listée ici, c’est que celle-ci ne compo
 
 26/04/2026
 ===
+- Ajout de la semence Myrtille et cassis.
+  
+26/04/2026
+===
 - Mise en place d'un bouton rapport, qui permet de voir l'état général de vos créations.
   
 06/09/2025
