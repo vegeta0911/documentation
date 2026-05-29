@@ -4,6 +4,10 @@ Vous trouverez ci-dessous les notes, les ajouts et les correctifs de chaque vers
 
 Remarque : en cas de mise à jour non listée ici, c’est que celle-ci ne comporte que des changements mineurs du type documentation ou corrections de bugs mineurs.
 
+29/05/2026
+===
+- Correction d'un bug sur la semence courge.
+  
 25/05/2026
 ===
 - Ajout de la semence Myrtille et cassis.
