@@ -7,4 +7,5 @@
 |<img src="../images/FullyKiosk/fully_kiosk_icon.png" width="100" />|Fully KiosK|Plugin permettant de contrôler des appareils tablettes, telephone. avec l'application FullyKiosk. |[Documentation Stable](FullyKiosk/index.md)<br/>[Changelog Stable](FullyKiosk/changelog.md)|
 |<img src="../images/Omlet/omlet_icon.png" width="100" />|Omlet|Plugin permettant de contrôler des accessoires Omlet. |[Documentation Stable](Omlet/index.md)<br/>[Changelog Stable](Omlet/changelog.md)|
 |<img src="../images/ESPhome/esphome_icon.png" width="100" />|ESPhome|Le plugin ESPHome permet de gérer facilement des appareils ESP32 / ESP8266. |[Documentation Stable](ESPhome/index.md)<br/>[Changelog Stable](ESPhome/changelog.md)|
+|<img src="../images/Stellantis/stellantis_icon.png" width="100" />|Stellantis|Plugin Jeedom pour véhicules Stellantis connectés pour Opel, Peugeot, DS, Vauxhall". |[Documentation Stable](Stellantis/index.md)<br/>[Changelog Stable](Stellantis/changelog.md)|
 
