@@ -2,26 +2,22 @@
 
 ## Description
 
-Le plugin **Stellantis** connecte Jeedom à votre compte constructeur (**Peugeot / MyPeugeot**, **Citroën / MyCitroën**, **Opel / MyOpel**, **DS / MyDS**, **Vauxhall / MyVauxhall**) pour superviser et piloter votre véhicule connecté depuis Jeedom.
+Le plugin **Stellantis** connecte votre compte constructeur (**Peugeot / MyPeugeot**, **Citroën / MyCitroën**, **Opel / MyOpel**, **DS / MyDS**, **Vauxhall / MyVauxhall**) pour superviser et piloter votre véhicule connecté depuis Jeedom.
 
 Un démon Python interroge en tâche de fond l'API cloud Stellantis et met à jour dans Jeedom :
 
 - Les informations du véhicule (niveau de batterie, autonomie électrique, niveau et autonomie carburant, kilométrage, état de charge, prise branchée ou non, climatisation, dernière connexion...).
-- Des commandes d'action à distance (verrouiller/déverrouiller, démarrer/arrêter la charge, démarrer/arrêter la climatisation, appel de phares, klaxon, réveil du véhicule, heure de charge différée...), sous réserve que votre véhicule les supporte.
+- Des commandes d'action à distance (démarrer/arrêter la charge, démarrer/arrêter la climatisation,  heure de charge différée...), sous réserve que votre véhicule les supportes.
 
 >**IMPORTANT**
 >
 >Toutes les fonctionnalités ne sont pas disponibles sur tous les véhicules : le plugin détecte automatiquement les capacités réelles de votre véhicule (électrique, thermique, hybride, climatisation à distance...) et n'affiche que les commandes pertinentes.
 
-# Installation
-
-Après activation du plugin, l'installation des dépendances (environnement Python dédié) démarre automatiquement. Le démon se lance ensuite tout seul une fois les dépendances installées.
-
 # Configuration
 
 ## Ajouter un compte / véhicule
 
-Depuis **Plugins > Communication > Stellantis** :
+Depuis **Plugins > Objects connectés > Stellantis** :
 
 1. Cliquez sur **Ajouter un compte**.
 2. Renseignez :
@@ -32,10 +28,8 @@ Depuis **Plugins > Communication > Stellantis** :
 4. Cliquez sur **Démarrer l'authentification**. Stellantis envoie alors un SMS de sécurité sur le téléphone associé au compte.
 5. Dans le bloc **Validation de la sécurité (Double Authentification)** :
    - Renseignez le **Code reçu par SMS**.
-   - Renseignez le **Code PIN de l'application** (celui utilisé pour déverrouiller/valider les actions dans l'application mobile officielle, 4 ou 6 chiffres).
+   - Renseignez le **Code PIN de l'application** (celui utilisé pour valider les actions dans à distance, 4 ou 6 chiffres).
    - Cliquez sur **Valider et lier mon compte**.
-
-Une fois ces deux étapes validées, le contrôle à distance est actif, le démon commence à interroger votre véhicule et les commandes/informations apparaissent dans l'onglet **Commandes / Véhicules** de l'équipement.
 
 >**INFORMATION**
 >
@@ -55,7 +49,7 @@ Chaque véhicule dispose d'un widget dédié affichable sur le tableau de bord J
 
 - La photo du véhicule et son kilométrage.
 - Les informations pertinentes selon la motorisation (batterie/autonomie électrique pour un véhicule électrique, niveau/autonomie carburant pour un thermique, les deux pour un hybride), l'état de la prise, l'état et le mode de charge, l'heure de charge différée programmée, l'état de la climatisation, la batterie 12V.
-- Une rangée de boutons d'actions : verrouiller / déverrouiller, démarrer / arrêter la climatisation, démarrer / arrêter la charge, appel de phares, klaxon, et **Heure de charge différée**.
+- Une rangée de boutons d'actions : démarrer / arrêter la climatisation, démarrer / arrêter la charge,  et **Heure de charge différée**.
 - La date de dernière connexion avec le véhicule.
 
 Après chaque action, un message s'affiche indiquant si la commande a été transmise, refusée, ou si le véhicule était injoignable (endormi).
@@ -86,7 +80,6 @@ Selon les capacités détectées pour votre véhicule, tout ou partie des comman
 | Kilométrage / Contact / Dernière mise à jour | Tous véhicules |
 | Température extérieure | Tous véhicules |
 | Préconditionnement / Cause échec préconditionnement | Véhicules avec climatisation à distance |
-| État verrouillage portes | Tous véhicules |
 
 **Actions**
 
@@ -102,6 +95,7 @@ Selon les capacités détectées pour votre véhicule, tout ou partie des comman
 >**"OTP indisponible le compte a atteint la limite d'appareils sur le serveur stellantis"**
 >
 >Le compte Stellantis a atteint le nombre maximum d'appareils autorisés (SMS/OTP) côté serveur. Ce n'est pas un problème du plugin : il faut réinitialiser les appareils autorisés depuis l'application mobile officielle (ou le support Stellantis) avant de pouvoir relier un nouvel appareil.
+>Et pour réinitialiser il faut désinstaller l'application officiel sur votre mobile, puis vous reconnecter sur l'application officiel et suivre les l'étapes de connexion.
 
 >**"Code SMS invalide ou expiré"**
 >
@@ -114,11 +108,3 @@ Selon les capacités détectées pour votre véhicule, tout ou partie des comman
 >**"Véhicule injoignable (endormi) après 45s d'attente"**
 >
 >Le véhicule est en veille et ne répond pas immédiatement. Utilisez la commande **Réveiller le véhicule** puis réessayez l'action quelques instants après.
-
->**"Renouvellement du token reporté : quota local de refresh atteint"**
->
->Le nombre d'essais de renouvellement de jeton dans la fenêtre de temps autorisée par l'API Stellantis a été atteint. Le démon retentera automatiquement au cycle suivant, aucune action n'est nécessaire.
-
->**Où voir les logs du démon ?**
->
->Depuis **Outils > Santé du système > Logs**, sélectionnez le journal `stellantis_daemon` pour suivre en direct les échanges avec l'API Stellantis (authentification, commandes, erreurs réseau...).
