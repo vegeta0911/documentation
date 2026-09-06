@@ -1,9 +1,10 @@
 # Plugin Stellantis
 
-## Description
 > <strong><span style="color:red"><img class="emoji responsive-img" title=":warning:" alt=":warning:" src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png" height="20" width="20" loading="lazy"> ATTENTION</span></strong>
 > 
 > Le plugin est fonctionnel à partir de Debian 12.
+
+## Description
 
 Le plugin **Stellantis** connecte votre compte constructeur (**Peugeot / MyPeugeot**, **Citroën / MyCitroën**, **Opel / MyOpel**, **DS / MyDS**, **Vauxhall / MyVauxhall**) pour superviser et piloter votre véhicule connecté depuis Jeedom.
 
