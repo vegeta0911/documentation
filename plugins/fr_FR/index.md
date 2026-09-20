@@ -8,4 +8,5 @@
 |<img src="../images/Omlet/omlet_icon.png" width="100" />|Omlet|Plugin permettant de contrôler des accessoires Omlet. |[Documentation Stable](Omlet/index.md)<br/>[Changelog Stable](Omlet/changelog.md)|
 |<img src="../images/ESPhome/esphome_icon.png" width="100" />|ESPhome|Le plugin ESPHome permet de gérer facilement des appareils ESP32 / ESP8266. |[Documentation Stable](ESPhome/index.md)<br/>[Changelog Stable](ESPhome/changelog.md)|
 |<img src="../images/Stellantis/stellantis_icon.png" width="100" />|Stellantis|Plugin Jeedom pour véhicules Stellantis connectés pour Opel, Peugeot, DS, Vauxhall". |[Documentation Stable](Stellantis/index.md)<br/>[Changelog Stable](Stellantis/changelog.md)|
+|<img src="../images/V2c/v2c_icon.png" width="100" />|Stellantis|Plugin Jeedom pour véhicules Stellantis connectés pour Opel, Peugeot, DS, Vauxhall". |[Documentation Stable](V2c/index.md)<br/>[Changelog Stable](V2c/changelog.md)|
 
