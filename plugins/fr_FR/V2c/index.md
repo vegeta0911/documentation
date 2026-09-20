@@ -15,9 +15,6 @@ Il permet de :
 
 - Une borne V2C Trydan connectée à votre réseau local (Wi-Fi ou Ethernet).
 - Connaître l'**adresse IP locale** de la borne (visible dans l'application V2C, ou dans la liste des appareils de votre routeur/box).
-- La borne et le serveur Jeedom doivent être sur le **même réseau**, ou pouvoir se joindre (pas de blocage entre VLAN/sous-réseaux).
-
-Aucune installation ni configuration côté chargeur n'est nécessaire : le plugin utilise l'API HTTP déjà activée en local sur le Trydan.
 
 ## Installation du plugin
 
