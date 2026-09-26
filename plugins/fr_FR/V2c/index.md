@@ -7,7 +7,7 @@ Il permet de :
 - suivre la puissance, l'intensité et l'énergie de charge en temps réel ;
 - suivre la production photovoltaïque et la puissance de la maison si votre installation le permet ;
 - mettre en pause, reprendre, verrouiller ou déverrouiller la charge ;
-- activer le mode dynamique (charge pilotée par le surplus solaire) et choisir son mode de fonctionnement ;
+- activer ou désactiver le mode dynamique ;
 - régler les intensités minimale et maximale de charge ;
 - consulter le mode de charge (monophasé / triphasé / mixte) et, à partir du firmware 2.5.0, les mesures par phase.
 
@@ -52,7 +52,6 @@ Chaque chargeur ajoute un widget sur votre tableau de bord Jeedom, avec :
 - **Bandeau d'en-tête** : tension d'installation, durée de charge en cours, indicateur de connexion (« Connecté » / « Injoignable »), et mode de charge (monophasé/triphasé/mixte).
 - **Interrupteur « Bloquer »** : verrouille ou déverrouille la borne à distance.
 - **Bouton pause/lecture** : met en pause ou reprend la charge en cours.
-- **Section « Charge dynamique »** : active/désactive le pilotage solaire, et choisit le mode de puissance dynamique (Boost, Minuterie désactivée, Charge exclusive, Puissance minimale, Réseau + Solaire, Arrêt).
 - **Section « Mode de charge »** : sélectionne le câblage utilisé par la borne (Monophasé / Triphasé / Mixte).
 - **Jauge de puissance** : affiche la puissance de charge instantanée.
 - **Curseurs « Intensité minimale »** et **« Intensité maximale »** : définissent la plage d'intensité (en ampères) utilisée par la borne, notamment en mode dynamique.
