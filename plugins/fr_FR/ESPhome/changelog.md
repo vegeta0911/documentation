@@ -10,4 +10,4 @@ mise à jour le 14/10/2026
 - bouton firmware pour télécharger le fichier bin, qui vous permet de l'injecter sur votre carte esp autrement.
   > <strong><span style="color:red"><img class="emoji responsive-img" title=":warning:" alt=":warning:" src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png?v8" height="20" width="20" loading="lazy"> IMPORTANT</span></strong>
   > 
-  >Apres la mise jours du plugin merci de redémarrer le daemon.
+  >Apres la mise à jours du plugin merci de redémarrer le daemon.
