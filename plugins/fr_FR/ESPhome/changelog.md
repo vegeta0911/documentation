@@ -6,5 +6,5 @@ Remarque : en cas de mise à jour non listée ici, c’est que celle-ci ne compo
 
 mise à jour le 14/10/2026
 ===
-- Ajout des boutons actions de la fonction switch et ligth.
+- Ajout des boutons actions de la fonction switch et ligth de esphome.
 - bouton firmware pour télécharger le fichier bin, qui vous permet de l'injecter sur votre carte esp autrement.
