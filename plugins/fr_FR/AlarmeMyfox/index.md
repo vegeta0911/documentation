@@ -11,23 +11,6 @@ Somfy.
 **Ce plugin ne nécessite aucun compte Myfox, aucun abonnement, et n'envoie rien sur internet.** Tout
 reste sur votre réseau local.
 
----
-
-## Sommaire
-
-- [Ce que ça fait](#ce-que-ça-fait)
-- [Prérequis](#prérequis)
-- [Installation](#installation)
-- [Étape obligatoire : rediriger la centrale vers Jeedom](#étape-obligatoire--rediriger-la-centrale-vers-jeedom)
-- [Configuration du plugin](#configuration-du-plugin)
-- [Utilisation au quotidien](#utilisation-au-quotidien)
-- [Le tableau de bord « MyFox Local »](#le-tableau-de-bord--myfox-local-)
-- [Dépannage](#dépannage)
-- [Sécurité](#sécurité)
-- [Pour aller plus loin](#pour-aller-plus-loin)
-
----
-
 ## Ce que ça fait
 
 - Armer / désarmer (total, partiel, desarmer).
